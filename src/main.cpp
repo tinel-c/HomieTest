@@ -1,3 +1,7 @@
+//***************************************************************************
+// Base project: https://bogza.ro/index.php/Smart_presence_sensor_T19SMWV01
+// Github: https://github.com/tinel-c/HomieTest
+//***************************************************************************
 #include <Homie.h>
 
 HomieNode lightNode("light", "Light", "switch");
